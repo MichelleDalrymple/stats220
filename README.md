@@ -14,6 +14,8 @@ It features the following stars of the Dalrymple household
 * Wilbur (bullmastiff)
 * Binky (alpaca)
 
+![](https://github.com/MichelleDalrymple/stats220/blob/main/Wilbur.jpg)
+
 *For more information about these animals see*:
 * 🐖 ![kunekune pigs](https://kunekune.co.nz/)
 * 🐕![The best dog breed](http://www.dominionbullmastiffclub.co.nz/)
