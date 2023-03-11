@@ -15,6 +15,6 @@ It features the following stars of the Dalrymple household
 * Binky (alpaca)
 
 *For more information about these animals see*:
-* ![kunekune pigs](https://kunekune.co.nz/)
-* ![The best dog breed](http://www.dominionbullmastiffclub.co.nz/)
-* ![Alpacas](http://www.alpacas.org.nz/)
+* 🐖 ![kunekune pigs](https://kunekune.co.nz/)
+* 🐕![The best dog breed](http://www.dominionbullmastiffclub.co.nz/)
+* 🦙 ![Alpacas](http://www.alpacas.org.nz/)
